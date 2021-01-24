@@ -1,0 +1,21 @@
+{
+  "name": "@esoto/utils",
+  "version": "0.0.0",
+  "description": "esoto javascript utilities and tools",
+  "author": "Eric Sotomayor <elpasocolorartist@yahoo.com>",
+  "license": "ISC",
+  "private": true,
+  "keywords": [
+    "@esoto/utils",
+    "esoto-utils",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esoto76/utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esoto76/utils/issues"
+  },
+  "homepage": "https://github.com/esoto76/utils#readme"
+}
